@@ -21,10 +21,10 @@ google_map_api: "https://maps.googleapis.com/maps/api/js?key=AIzaSyDnh74UN6BKgq9
 ############### Call to Action ###############
 cta:
   enable: true
-  title: "dizer give the smart solution for your business"
+  title: "Get involved and help grow our community garden!"
   bg_image: "/assets/images/bg/cta-bg-2.png"
   button:
-    label: "get a quote"
+    label: "get in touch"
     link: "contact"
 
 ################## Social site ###############
