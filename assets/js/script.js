@@ -5,14 +5,14 @@
 
   var win = $(window);
 
-  // navigation fixed top
-  win.on('scroll', function () {
-    if ($(window).scrollTop() > 70) {
-      $('.main-nav').addClass('nav-top');
-    } else {
-      $('.main-nav').removeClass('nav-top');
-    }
-  });
+  // // navigation fixed top
+  // win.on('scroll', function () {
+  //   if ($(window).scrollTop() > 70) {
+  //   $('.main-nav').addClass('nav-top');
+  //   } else {
+  //     $('.main-nav').removeClass('nav-top');
+  //   }
+  // });
 
 
   $(".toggler").click(function () {

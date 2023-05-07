@@ -1,5 +1,5 @@
 .banner {
-  background: url("../images/banner/banner.jpg") center center no-repeat;
+  background: url("../images/banner/Background.jpeg") center center no-repeat;
   background-size: cover;
   overflow: hidden;
 
@@ -41,6 +41,7 @@
     padding: 180px 0px 120px 0px;
     @include desktop-lg {
       padding: 150px 0 100px 0;
+    background-color: #04724D;
     }
 
     h2 {
