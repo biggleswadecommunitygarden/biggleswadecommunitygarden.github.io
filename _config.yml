@@ -12,20 +12,20 @@ logo_icon: "/assets/images/logo-biggleswade.png"
 # contact form action
 contact_form_action: "#" # works with https://fomrspree.io
 mailchimp_list: ""
-footer_content: "Lorem ipsum dolor amet consectetur adipielit sed eiusm tempor incididunt ut labore dolore magna aliqua enim ad minim veniam."
+footer_content: "Find out more at our Facebook volunteer page."
 copyright: "Biggleswade Community Gardens. &copy; 2023 All Right Reserved"
 # page header default image
-cover_image: "/assets/images/banner/Background.jpeg"
+cover_image: "/assets/images/banner/Background2.jpeg"
 google_map_api: "https://maps.googleapis.com/maps/api/js?key=AIzaSyDnh74UN6BKgq9U5fMNGhdZOSpmM_QnZqs"
 
 ############### Call to Action ###############
 cta:
   enable: true
-  title: "Get involved and help grow our community garden!"
+  title: "Join our volunteer gardening group and help grow our community!"
   bg_image: "/assets/images/bg/cta-bg-2.png"
   button:
-    label: "get in touch"
-    link: "contact"
+    label: "Join facebook group"
+    link: "https://www.facebook.com/groups/1413256422430997/"
 
 ################## Social site ###############
 social:
