@@ -23,4 +23,4 @@ bottom:
   - name: Terms of Service
     link: "#"
   - name: Privacy Policy
-    link: "#"
+    url: /privacypolicy.html
