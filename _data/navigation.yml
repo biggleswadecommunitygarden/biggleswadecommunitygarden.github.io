@@ -17,10 +17,15 @@ footer:
     url: /contact.html
   - name: Privacy Policy
     url: /privacypolicy.html
+  - name: EDI Policy
+    url: "https://drive.google.com/file/d/1_0SxzPcNoe8rYc_lL_fH11wOsqR9aAbC/view?usp=share_link"
+  - name: Safeguarding Policy
+    url: "https://drive.google.com/file/d/1XVB9DlpQ0LEC4Im31BWwAsN2V_jkzO6n/view?usp=share_link"
+  - name: Constitution Policy
+    url: "https://drive.google.com/file/d/1e7mSUbF3_mlJf7iy_lC9nYlmaw2rTO2u/view?usp=share_link"
+
 
 ############## Bottom menu ###############
 bottom:
-  - name: Terms of Service
-    link: "#"
   - name: Privacy Policy
     url: /privacypolicy.html
