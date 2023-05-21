@@ -2,7 +2,10 @@
 hero_area:
   title : "Biggleswade Community Gardens"
   background_image : "/assets/images/banner/Background2.jpeg"
-  content : "A local community garden group working to improve Biggleswade's green spaces and grow fresh food to share."
+  content : "A local community garden group working to improve Biggleswade's
+
+
+   green spaces and grow fresh food to share."
   button:
     enable : true
     label : "Get involved"
@@ -31,7 +34,7 @@ about:
   title : "We are a community garden group based in Biggleswade, Bedfordshire"
   video_thumb : "/assets/images/about/about.jpeg"
   video_url : "/"
-  content : "We are a group of volunteers who get together to maintain a flower garden at Chestnut Avenue in Biggleswade. We are also currently planning other sites in Biggleswade where a mixture of flowers, fruit, veg and herbs will be grown for the community.
+  content : "We are a group of volunteers who get together to maintain a flower garden at Chestnut Avenue in Biggleswade. We are also currently planning other sites in Biggleswade where a mixture of flowers, fruit, veg and herbs will be grown for and by the community.
 
 
   As well as gardening, it’s a chance to meet new people in the community. We also organise seed and plant swaps and group members often share resources to encourage gardening such as pots, seeds, plants and recipes.

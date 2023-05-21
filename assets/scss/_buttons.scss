@@ -37,9 +37,9 @@
 }
 
 .btn-secondary {
-  background: $secondary-color;
-  border-color: $secondary-color;
-  color: $white;
+  background: $white;
+  border-color: $white;
+  color: $secondary-color;
 
   &:hover,
   &:active,
