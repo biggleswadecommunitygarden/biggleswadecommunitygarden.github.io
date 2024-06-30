@@ -7,7 +7,7 @@
 					<h4 class="text-white mb-3">Navigation</h4>
 					<ul class="list-unstyled lh-38">
 						{% for menu in site.data.navigation.footer %}
-						<li><a href="{{menu.url | relative_url }}">{{menu.name}}</a></li>
+						<li><a href="{{menu.url | relative_url }}" target="_blank">{{menu.name}}</a></li>
 						{% endfor %}
 					</ul>
 				</div>

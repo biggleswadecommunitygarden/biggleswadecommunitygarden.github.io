@@ -18,13 +18,15 @@ footer:
   - name: Privacy Policy
     url: /privacypolicy.html
   - name: EDI Policy
-    url: "https://drive.google.com/file/d/1_0SxzPcNoe8rYc_lL_fH11wOsqR9aAbC/view?usp=share_link"
+    url: /Biggleswade_Community_Garden_EDI_Policy_revised.pdf
   - name: Safeguarding Policy
-    url: "https://drive.google.com/file/d/1XVB9DlpQ0LEC4Im31BWwAsN2V_jkzO6n/view?usp=share_link"
+    url: /Biggleswade_Community_Garden_Safeguarding_Policy.pdf
   - name: Constitution Policy
-    url: "https://drive.google.com/file/d/1e7mSUbF3_mlJf7iy_lC9nYlmaw2rTO2u/view?usp=share_link"
-  - name: Risk Assessments
-    url: "https://drive.google.com/drive/folders/1JkIBaNa6GLqYGKa8aCjLDK8zhzYx1I6_?usp=sharing"
+    url: /Biggleswade_Community_Garden_Group_Constitution.pdf
+  - name: Chestnut Ave Risk Assessments
+    url: /Chestnut_Ave_April_24_Community_Garden_Risk_Assessment.pdf
+  - name: Northfields Risk Assessments
+    url: /Northfields_April_24_Community_Garden_Risk_Assessment.pdf
 
 ############## Bottom menu ###############
 bottom:
