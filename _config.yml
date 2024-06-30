@@ -7,15 +7,15 @@ address: "Biggleswade"
 author: Biggleswade Community Gardens
 description: >- # this means to ignore newlines
   Growing together in Biggleswade.
-logo: "/assets/images/logo-biggleswade.png"
-logo_icon: "/assets/images/logo-biggleswade.png"
+logo: "/assets/images/logo-biggleswade-2024_2.png"
+logo_icon: "/assets/images/logo-biggleswade-2024_2.png"
 # contact form action
 contact_form_action: "#" # works with https://fomrspree.io
 mailchimp_list: ""
 footer_content: "Find out more at our Facebook volunteer page."
 copyright: "Biggleswade Community Gardens. &copy; 2023 All Right Reserved"
 # page header default image
-cover_image: "/assets/images/banner/Background2.jpeg"
+cover_image: "/assets/images/banner/biggleswade_background.jpeg"
 google_map_api: "https://maps.googleapis.com/maps/api/js?key=AIzaSyDnh74UN6BKgq9U5fMNGhdZOSpmM_QnZqs"
 
 ############### Call to Action ###############

@@ -1,7 +1,7 @@
 ################## Hero Area #######################
 hero_area:
   title : "Biggleswade Community Gardens"
-  background_image : "/assets/images/banner/Background2.jpeg"
+  background_image : "/assets/images/banner/biggleswade_background.png"
   content : "A local community garden group working to improve Biggleswade's
 
 
@@ -79,7 +79,7 @@ funfacts:
 
 ######################### Testimonail ####################
 testimonial:
-  enable : true
+  enable : false
   subtitle : "testimonials"
   title : "What Our Volunteers Say"
   item:
@@ -116,7 +116,7 @@ testimonial:
 
 ###################### Clients ######################
 clients:
-  enable : true
+  enable : false
   logos:
     - "/assets/images/clients/client-1.png"
     - "/assets/images/clients/client-2.png"
@@ -132,7 +132,7 @@ clients:
 
 ###################### Team ######################
 team:
-  enable : true
+  enable : false
   item:
   - name : "Liam Hughes"
     designation : "Manager"
