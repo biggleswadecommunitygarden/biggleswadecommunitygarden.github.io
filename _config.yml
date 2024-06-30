@@ -15,7 +15,7 @@ mailchimp_list: ""
 footer_content: "Find out more at our Facebook volunteer page."
 copyright: "Biggleswade Community Gardens. &copy; 2023 All Right Reserved"
 # page header default image
-cover_image: "/assets/images/banner/biggleswade_background.jpeg"
+cover_image: "/assets/images/banner/biggleswade_background.png"
 google_map_api: "https://maps.googleapis.com/maps/api/js?key=AIzaSyDnh74UN6BKgq9U5fMNGhdZOSpmM_QnZqs"
 
 ############### Call to Action ###############
